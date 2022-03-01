@@ -1,0 +1,30 @@
+{
+  "name": "CometaBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "node": "^16.13.2",
+    "nodemon": "^2.0.15",
+    "npm": "^8.5.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adm-2441/Moonli-Canary.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adm-2441/Moonli-Canary/issues"
+  },
+  "homepage": "https://github.com/adm-2441/Moonli-Canary#readme",
+  "devDependencies": {
+    "eslint": "^8.9.0",
+    "eslint-plugin-react": "^7.28.0"
+  }
+}
